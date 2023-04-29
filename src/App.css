@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar {
+  display: 'flex';
+  text-align: left;
+  background-color: grey;
+  border: solid 8px;
+  margin-top: 5%;
+}
+
+.navbarattributes {
+  color: white;
+  margin-left: 5;
+  padding: 0;
+}
+
+.login {
+  margin-top: 15%;
+}
